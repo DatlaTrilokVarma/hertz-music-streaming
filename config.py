@@ -1,4 +1,4 @@
-Database configuration for Hertz."""
+"""Database configuration for Hertz."""
 import os
 
 # MySQL Configuration
